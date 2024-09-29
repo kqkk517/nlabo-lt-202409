@@ -1,0 +1,23 @@
+/* @theme theme */
+
+@import "default";
+
+.split-v {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.split-v > * {
+  margin-right: 1rem;
+}
+
+.split-v > *:last-child {
+  margin-right: 0;
+}
+
+.split-h {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
