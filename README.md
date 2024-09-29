@@ -7,10 +7,10 @@
 ├── README.md
 ├── demo
 │   └── sample.js  // デモ用プログラムのソースコード
-├── export  // 出力したスライド(pdf, pptx)
+├── export  // 出力したスライドたち(pdf, pptx)
 │   ├── slide.pdf
 │   └── slide.pptx
-├── imgs
+├── imgs  // 画像たち
 │   └── google-map.png
 ├── slide.md  // スライドのソースファイル
 └── theme.css  // スライドのスタイルシート
